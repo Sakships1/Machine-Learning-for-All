@@ -1,0 +1,27 @@
+1.Question 1
+Why is Google very successful at Machine Learning?
+
+Ans -  data is the most important thing in machine learning.
+
+2.Question 2
+In machine learning, your testing set should be:
+
+Ans - Examples that are not in your training set but similar to the examples in your training set.
+
+3.Question 3
+Neural networks risk being "Weapons of Math Destruction" because...
+
+Ans -  though neural networks can work very well, it can be very hard to understand why they make certain decisions, which in turn can make it hard to spot when they make
+a mistake
+
+4.Question 4
+Why is it important to keep testing and training sets separate?
+
+Ans -  a separate testing set will help you spot that situation
+
+5.Question 5
+What is the best way of eliminating bias in machine learning?
+
+Ans - the more people that are involved the less likely that the biases of a small group of people will influence the machine learning systems. 
+That's why I want as many people as possible to learn about machine learning.
+
